@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/art-brush-design-icon.png</file>
+        <file>Images/eraser-icon.png</file>
+        <file>Images/flip-horizontal-icon.png</file>
+        <file>Images/mathematics-sign-plus-outline-icon.png</file>
+        <file>Images/open-folder-outline-icon.png</file>
+        <file>Images/paint-bucket-icon.png</file>
+        <file>Images/painting-bucket-logo-icon.png</file>
+        <file>Images/painting-icon.png</file>
+        <file>Images/save-outline-icon.png</file>
+        <file>Images/dosage-icon.png</file>
+        <file>Images/gridTile.jpg</file>
+        <file>Images/circle.png</file>
+        <file>Images/rectangle.png</file>
+        <file>Images/square.png</file>
+    </qresource>
+</RCC>
