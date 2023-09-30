@@ -1,4 +1,4 @@
-# a7-sprite-editor-s23-darcusmao
+# a7-sprite-editor-s23
 a7-sprite-editor-s23-darcusmao created by GitHub Classroom
 # A7 Sprite Editor
 
